@@ -11,6 +11,12 @@ function frameIt() {
   })
 }
 
+function pressIt() {
+  $('form').on('keydown', function() {
+    if ()
+  })
+}
+
 $(document).ready(function(){
 
 // call functions here
