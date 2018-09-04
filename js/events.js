@@ -5,7 +5,11 @@ function getIt() {
   });
 }
 
-
+function frameIt() {
+  $('img').on('load', function() {
+    add .tasty
+  })
+}
 
 $(document).ready(function(){
 
